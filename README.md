@@ -1,4 +1,4 @@
-# PD FTable Detection (Header and Content Rows Identification) -OCR-
+# PDF Table Detection (Header and Content Rows Identification) -OCR-
 
 Steps:
 1. Convert the PDF files to images.
